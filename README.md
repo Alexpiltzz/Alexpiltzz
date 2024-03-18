@@ -4,10 +4,11 @@ Just Python
 
 ### 🔭 My GitHub Stats
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
 <div allign="center">
   <a href="https://github.com/Alexpiltzz">
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexpiltzz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpiltzz&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
