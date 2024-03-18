@@ -11,11 +11,15 @@ I'm a accounting sciences student and Python developer passionate about coding a
 Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python
-- Tools: Git, VS Code, Jupyter Notebook, HTML5
+- Tools: Git, VS Code, Jupyter Notebook
 
 ### 🔭 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Alexpiltzz&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Alexpiltzz&show_icons=true&theme=radical&count_private=true)
+
+### 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpiltzz&layout=compact&theme=radical&count_private=true)
 
 ### 📫 Get in Touch
 
