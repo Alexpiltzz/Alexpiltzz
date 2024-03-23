@@ -4,11 +4,11 @@ I only know Python
 
 ### 🔭 My GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Alexpiltzz&show_icons=true&theme=default&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Alexpiltzz&show_icons=true&theme=algolia&count_private=true)
 
 ### 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpiltzz&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpiltzz&layout=compact&theme=algolia)
 
 
 <div style="display: inline_block" align="center"><br>
