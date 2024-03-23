@@ -1,6 +1,6 @@
 ### Hello, I'm Alexpiltzz
 
-Just Python
+I only know Python
 
 ### 🔭 My GitHub Stats
 
