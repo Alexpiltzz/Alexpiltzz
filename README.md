@@ -2,9 +2,6 @@
 
 I only know Python
 
-### 🔭 My GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Alexpiltzz&show_icons=true&theme=algolia&count_private=true)
 
 ### 📊 Top Languages
 
