@@ -5,7 +5,7 @@ I only know Python
 
 ### 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpiltzz&hide=javascript,css,scss,html,shell,batchfile,powershell&layout=compact&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpiltzz&hide=javascript,css,scss,html,shell,batchfile,powershell,python,pascal&layout=compact&theme=algolia)
 
 
 <div style="display: inline_block" align="center"><br>
